@@ -32,4 +32,4 @@ This project analyzes Walmart store sales data to determine key factors influenc
 ### 📜 How to Run This Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-praneethk06/walmart-sales-analysis.git
+   git clone https://github.com/praneethk06/walmart-sales-analysis.git
