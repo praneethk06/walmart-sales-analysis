@@ -28,3 +28,8 @@ This project analyzes Walmart store sales data to determine key factors influenc
 - **Scikit-Learn (Machine Learning Models)**
 - **Tableau (Visualization)**
 - **GitHub (Version Control)**
+
+### 📜 How to Run This Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-praneethk06/walmart-sales-analysis.git
